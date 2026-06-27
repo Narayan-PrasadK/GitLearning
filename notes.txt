@@ -1,1 +1,3 @@
-Git is awesome
+1st commit 
+Git is awesome!
+Git is powerful.
